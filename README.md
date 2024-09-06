@@ -26,7 +26,7 @@ The Language Translation Extension is a browser add-on that allows users to easi
 
 - Obtain an API key from Google Translate or Microsoft Azure Translator.
 - Add the API key in the config.js file in the root directory: const API_KEY = https://translate.google.com/translate?hl=${request.language}&sl=auto&tl=${request.language}&u=${window.location.href};
-- 
+  
 4.Run the extension:
 
 - Click the extension icon to get the translation and Select language on any webpage.
@@ -43,4 +43,4 @@ You can configure the following options within the extension settings:
 # Technologies Used
 - Frontend: HTML, CSS, JavaScript
 - API: Google Translate API
-- Browser Integration: Chrome or Firefox Extension API API: Google Translate API or Microsoft Azure Translator API Browser Integration: Chrome or Firefox Extension API
+- Browser Integration: Chrome or Firefox Extension API API: Google Translate API Browser Integration: Chrome or Firefox Extension API
